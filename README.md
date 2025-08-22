@@ -8,4 +8,4 @@ I enjoy working across the stack, from Python, JavaScript, and Java to AI/ML wit
 - Certifications in **Neural Networks & Deep Learning** and **Improving Deep Neural Networks** (DeepLearning.AI)  
 - **Notion Essentials & Settings Certifications (2023)** - Expertise in building collaborative systems, workspace management, and productivity best practices.  
 
-Check out my favorite projects below in the pinned section!  
+Check out my favorite projects pinned below!  
