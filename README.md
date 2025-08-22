@@ -1,7 +1,7 @@
 # Hi, I'm Nicholas 👋
 
 I'm an entry-level Software & AI Engineer passionate about building practical, impactful tools with modern technologies.  
-I enjoy working across the stack, from Python, Java, and JavaScript to AI/ML with TensorFlow, NumPy, and AI models.  
+I enjoy working across the stack, from Python, JavaScript, and Java to AI/ML with TensorFlow, NumPy, and local AI models.  
 
 ### 🎓 Background
 - **B.S. Computer Science** - Western Washington University (2025)  
