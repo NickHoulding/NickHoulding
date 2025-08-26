@@ -1,4 +1,4 @@
-# Hi, I'm Nicholas 👋
+# Hi, I'm Nick 👋
 
 I'm an entry-level Software & AI Engineer passionate about building practical, impactful tools with modern technologies.  
 I enjoy working across the stack, from Python, JavaScript, and Java to AI/ML with TensorFlow, Keras, and local AI models.  
