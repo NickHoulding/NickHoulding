@@ -18,5 +18,6 @@ Completed 5-course program covering CNNs, RNNs, LSTMs, and Transformers with han
 **Notion Essentials & Settings** (Notion, 2023)  
 Expertise in collaborative systems, workspace management, and productivity optimization.
 
+---
 
 Check out my favorite projects pinned below!
