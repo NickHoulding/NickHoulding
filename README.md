@@ -5,7 +5,7 @@ I'm a Software & AI Engineer passionate about building practical, impactful tool
 ## Education
 
 **M.S. Computer Science, AI and Machine Learning**  
-Western Governor's University | Oct 2025-Mar 2027
+Western Governor's University | Oct 2025-Dec 2026
 
 **B.S. Computer Science**  
 Western Washington University | Sep 2021-Jun 2025
