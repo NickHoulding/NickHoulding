@@ -1,6 +1,7 @@
 # Hi, I'm Nick 👋
 
 I build production-grade AI systems: RAG pipelines, vector search engines, and ML models. I ship them with real engineering practices: containerization, comprehensive testing, and clean REST APIs.  
+  
 📫 nih642@gmail.com | [LinkedIn](https://www.linkedin.com/in/nicholashoulding)
 
 ## Education
