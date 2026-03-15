@@ -15,7 +15,7 @@ Western Washington University | Sep 2021-Jun 2025
 ## Certifications
 
 **Deep Learning Specialization** (DeepLearning.AI, 2025)  
-Completed 5-course specialization covering neural network architectures (CNNs, RNNs, LSTMs, Transformers) and optimization techniques (Dropout, BatchNorm), with hands-on projects in classification, chatbots, NLP, and machine translation using Python and TensorFlow + Keras.
+Completed 5-course specialization covering neural network architectures and optimization techniques, with hands-on projects in classification, chatbots, NLP, and machine translation using Python and TensorFlow.
 
 ---
 
