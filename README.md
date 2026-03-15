@@ -1,11 +1,12 @@
 # Hi, I'm Nick 👋
 
-I'm a Software & AI Engineer passionate about building practical, impactful tools with modern technologies. I work across the full stack from Python, JavaScript, React, and Java to AI/ML with TensorFlow and local AI models.
+I build production-grade AI systems: RAG pipelines, vector search engines, and ML models. I ship them with real engineering practices: containerization, comprehensive testing, and clean REST APIs.
+📫 nih642@gmail.com | [LinkedIn](https://www.linkedin.com/in/nicholashoulding)
 
 ## Education
 
-**M.S. Computer Science, AI and Machine Learning**  
-Western Governor's University | Oct 2025-Dec 2026
+**M.S. Computer Science, AI/ML Specialty**  
+Western Governors University | Oct 2025-Dec 2026
 
 **B.S. Computer Science**  
 Western Washington University | Sep 2021-Jun 2025
@@ -13,11 +14,8 @@ Western Washington University | Sep 2021-Jun 2025
 ## Certifications
 
 **Deep Learning Specialization** (DeepLearning.AI, 2025)  
-Completed 5-course program covering CNNs, RNNs, LSTMs, and Transformers with hands-on projects in classification, NLP, chatbots, and machine translation.
-
-**Notion Essentials & Settings** (Notion, 2023)  
-Expertise in collaborative systems, workspace management, and productivity optimization.
+Completed 5-course specialization covering neural network architectures (CNNs, RNNs, LSTMs, Transformers) and optimization techniques (Dropout, BatchNorm), with hands-on projects in classification, chatbots, NLP, and machine translation using Python and TensorFlow + Keras.
 
 ---
 
-Check out my favorite projects pinned below!
+See my pinned projects below.
