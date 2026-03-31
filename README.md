@@ -8,14 +8,15 @@ nih642@gmail.com | [LinkedIn](https://www.linkedin.com/in/nicholashoulding)
 
 **M.S. Computer Science, AI/ML Specialty**  
 Western Governors University | Oct 2025-Dec 2026
+Relevant Coursework: Machine Learning, Applied Algorithms and Reasoning, Unix and Linux, Formal Languages
 
 **B.S. Computer Science**  
 Western Washington University | Sep 2021-Jun 2025
+Relevant Coursework: Data Structures and Algorithms, OOP, Operating Systems, Databases, AI, NLP
 
 ## Certifications
 
-**Deep Learning Specialization** (DeepLearning.AI, 2025)  
-Completed 5-course specialization covering neural network architectures and optimization techniques, with hands-on projects in classification, chatbots, NLP, and machine translation using Python and TensorFlow.
+**Deep Learning Specialization** (DeepLearning.AI, 2025) [View](https://www.credly.com/badges/6542de92-bbf7-4273-8e81-aaaa8c2a17e0/public_url)  
 
 ---
 
