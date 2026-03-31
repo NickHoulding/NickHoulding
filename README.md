@@ -7,11 +7,11 @@ nih642@gmail.com | [LinkedIn](https://www.linkedin.com/in/nicholashoulding)
 ## Education
 
 **M.S. Computer Science, AI/ML Specialty**  
-Western Governors University | Oct 2025-Dec 2026
+Western Governors University | Oct 2025-Dec 2026  
 Relevant Coursework: Machine Learning, Applied Algorithms and Reasoning, Unix and Linux, Formal Languages
 
 **B.S. Computer Science**  
-Western Washington University | Sep 2021-Jun 2025
+Western Washington University | Sep 2021-Jun 2025  
 Relevant Coursework: Data Structures and Algorithms, OOP, Operating Systems, Databases, AI, NLP
 
 ## Certifications
